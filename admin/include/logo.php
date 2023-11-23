@@ -1,0 +1,1 @@
+<img src="logo1.jpeg" width="55px" style="align-item: right; margin: 0 auto; " alt="dashboard" />
